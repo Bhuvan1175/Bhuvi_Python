@@ -1,0 +1,1 @@
+print("Bhuvi","Chaitanya","Lavya","Naksh",21,12,9,3)
