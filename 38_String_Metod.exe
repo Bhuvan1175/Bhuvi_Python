@@ -1,0 +1,15 @@
+String Methods
+
+* Capitalize
+* title
+* upper
+* lower
+* find
+* count
+* index
+* replace
+* split
+* islower
+* isupper
+* isnumeric
+* isalpha
